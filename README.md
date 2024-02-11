@@ -18,3 +18,13 @@ This Weather App is a simple web application that allows users to check the weat
 ## Usage
 
 1. Clone the repository:
+2. https://github.com/Vaishhh54/Weather-App.git
+3. Navigate to the project directory:
+4. cd weather-app
+5. Open index.html in your web browser.
+6. Enter a city name or zip code in the search bar and press Enter.
+7. View the current weather conditions for the specified location.
+
+## Credits
+
+- This project was created by Vaishnavi Sonawane.
