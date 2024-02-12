@@ -88,3 +88,11 @@ body{
 .weather{
     display: none;
 }
+
+.error{
+    margin-left: 10px;
+    text-align: left;
+    font-size: 14px;
+    margin-top: 10px;
+    display: none;
+}
